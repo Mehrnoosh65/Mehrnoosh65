@@ -3,6 +3,16 @@
 👋 Hi there! Welcome to my GitHub profile. 
 I'm Mehrnoosh, a Geophysicist with a passion for data science and machine learning. I love working with 3D models and images, exploring the hidden patterns in data, and finding meaningful insights.
 
+## 💻 Technologies & Tools
+- **Programming:** Python, Matlab, R, SQL, Bash
+- **Database:** MySQL, Navicat Premium
+- **Data Analysis and Notebooks:** Jupyter, VS Code
+- **Statistics:** Hypothesis Testing, A/B tests, Regression, SciPy
+- **Data Visualization:** Tableau, Matplotlib, Plotly, Seaborn
+- **Neural Networks:** Tensorflow, Keras, PyTorch
+- **Cloud:** GCP, AWS
+- **Big Data:** Hadoop, Spark
+
 ## 🔭 What I'm Interested In
 - Processing and analyzing 3D models and images.
 - Applying machine learning techniques to data and solving challenging problems.
