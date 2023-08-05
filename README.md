@@ -7,6 +7,7 @@ I'm Mehrnoosh, a Geophysicist with a passion for data science and machine learni
 - **Programming:** Python, Matlab, R, SQL, Bash
 - **Database:** MySQL, Navicat Premium
 - **Data Analysis and Notebooks:** Jupyter, VS Code
+- **Data and image Processing:** Nibabel, PIL
 - **Statistics:** Hypothesis Testing, A/B tests, Regression, SciPy
 - **Data Visualization:** Tableau, Matplotlib, Plotly, Seaborn
 - **Neural Networks:** Tensorflow, Keras, PyTorch
